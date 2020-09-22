@@ -1,5 +1,7 @@
 # Code Challenge: 
 
+![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Simple_String_Reversal/master/Images/pythonstring.png)
+
 
 ## Simple String Reversal
 
@@ -33,3 +35,5 @@ All input will be lower case letters and in some cases spaces.
 This kata was written by: KenKamau
 
 Thank you to Codewars for helping me practice my Python skills.
+
+![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Simple_String_Reversal/master/Images/string-reversal-in-python.png)
